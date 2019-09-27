@@ -1,0 +1,4 @@
+{
+    "page-path1":["<COMPONENT1>", "<COMPONENT2>"],
+    "page-path2":["<COMPONENT1>", "<COMPONENT3>", "<COMPONENT5>"]
+}
